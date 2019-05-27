@@ -1,0 +1,231 @@
+
+
+*{
+ padding:0;
+ margin: 0;
+}
+.a
+{
+	font-family: 'Lobster', cursive;
+	font-size: 30px;
+	color: #ffdb4d;
+}
+
+ul
+{
+	list-style: none;
+	float: right;
+}
+ul li
+{
+	display: inline-block;
+	margin-top: 0px;
+	padding: 16px;
+}
+ul li a
+{
+	text-decoration: none;
+	color: white;
+	font-family: 'Lilita One', cursive;
+
+}
+.b
+{
+	position: absolute;
+	font-size: 50px;
+	top: 250px;
+	left: 700px;
+	color: white;
+	font-family: 'Srisakdi', cursive;
+}
+.c
+{
+	position: absolute;
+	font-size: 70px;
+	top: 320px;
+	left: 570px;
+	color: white;
+	font-family: 'Baloo Chettan', cursive;
+}
+.d
+{
+	
+	background-color: #ffdb4d;
+	height: 50px;
+	width: 200px;
+	position: absolute;
+	font-size: 20px;
+	top: 530px;
+	left: 850px;
+	color: white;
+	font-family: 'Baloo Chettan', cursive;
+	border-radius: 5px;
+	text-align: center;
+}
+.container
+{
+	background-color: gray;
+	background-size: cover;
+	height: 700px;
+}
+.aa
+{
+	position: absolute;
+	font-size: 30px;
+	top: 730px;
+	left: 900px;
+	color: black;
+	font-family: 'Acme', sans-serif;
+
+}
+.bb
+{
+	position: absolute;
+	font-size: 18px;
+	top: 770px;
+	left: 820px;
+	color: black;
+	font-family: 'Lobster', cursive;
+
+}
+.cc
+{
+	background-color: #ffdb4d;
+	border-radius: 50px;
+	width: 50px;
+	height: 50px;
+	text-align: center;
+	top: 850px;
+	left: 400px;
+}
+.middle
+{
+	position: absolute;
+	left: 220px;
+	top: 700px;
+	padding: 90PX;
+	margin: 90px;
+	
+}
+.btn
+{
+	width: 80px;
+	height: 80px;
+	background-color: #ffdb4d;
+	display: inline-block;
+	text-align: center;
+	border-radius: 50px;
+
+	
+
+	
+}
+.btn i
+{
+	position: relative;
+	font-size: 30px;
+	top: 30%;
+	color: white; 
+}
+.middle1
+{
+	position: absolute;
+	left: 700px;
+	top: 700px;
+	padding: 90PX;
+	margin: 90px;
+	
+}
+.btn1
+{
+	width: 80px;
+	height: 80px;
+	background-color: #ffdb4d;
+	display: inline-block;
+	text-align: center;
+	border-radius: 50px;
+
+	
+
+	
+}
+.btn1 i
+{
+	position: relative;
+	font-size: 30px;
+	top: 30%;
+	color: white; 
+}
+.middle2
+{
+	position: absolute;
+	left: 1200px;
+	top: 700px;
+	padding: 90PX;
+	margin: 90px;
+	
+}
+.btn2
+{
+	width: 80px;
+	height: 80px;
+	background-color: #ffdb4d;
+	display: inline-block;
+	text-align: center;
+	border-radius: 50px;
+
+	
+
+	
+}
+.btn2 i
+{
+	position: relative;
+	font-size: 30px;
+	top: 30%;
+	color: white; 
+}
+.gg
+{
+	font-size: 20px;
+	font-family: 'Lilita One', cursive;
+}
+.hh
+{
+	font-size: 20px;
+	font-family: 'Lilita One', cursive;
+	text-align: center;
+}
+.rr
+{
+	font-size: 20px;
+	font-family: 'Lilita One', cursive;
+	text-align: center;
+}
+.yy
+{
+	position: absolute;
+	font-size: 15px;
+	top: 1000px;
+	left: 300px;
+	font-family: 'Assistant', sans-serif;
+
+}
+.yx
+{
+	position: absolute;
+	font-size: 15px;
+	top: 1000px;
+	left: 800px;
+	font-family: 'Assistant', sans-serif;
+
+}
+.xy
+{
+	position: absolute;
+	font-size: 15px;
+	top: 1000px;
+	left: 1300px;
+	font-family: 'Assistant', sans-serif;
+
+}
